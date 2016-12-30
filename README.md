@@ -1,2 +1,2 @@
-# Projeto-Final-POO-UFG
-Sistema de gerenciamento de farmácia 
+# Projeto Final da disciplina de Programação Orientada a Objetos
+Sistema de gerenciamento de farmácia
